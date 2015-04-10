@@ -12,6 +12,7 @@
     "email": "nicolo.ribaudo@gmail.com",
     "url": "https://github.com/nicolo-ribaudo"
   },
+  "i18n": ["en", "en-gb", "it"],
   "license": "MIT",
   "keywords": [
     "svg",
